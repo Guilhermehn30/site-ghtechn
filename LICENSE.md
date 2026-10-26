@@ -308,7 +308,7 @@
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.04 2a9.9 9.9 0 0 0-8.5 14.9L2 22l5.25-1.4A9.9 9.9 0 1 0 12.04 2zm5.8 14.1c-.25.7-1.45 1.35-2 1.4-.52.06-1.17.08-1.9-.12a16 16 0 0 1-5.7-3.5 8.5 8.5 0 0 1-2-3.4c-.2-1 .2-1.8.45-2.1.25-.3.55-.37.74-.37h.52c.17 0 .4-.06.62.48.24.57.8 1.97.87 2.1.07.15.12.32.02.5-.1.2-.15.32-.3.5l-.45.5c-.15.15-.3.3-.13.6.17.3.77 1.27 1.65 2.05 1.13 1 2.1 1.32 2.4 1.47.3.15.47.12.65-.07.17-.2.75-.87.95-1.17.2-.3.4-.25.67-.15.27.1 1.72.8 2.02.97.3.15.5.22.57.35.07.12.07.7-.18 1.4z"/></svg>
             Chamar no WhatsApp
           </a>
-          <small>Ou escreva para <a href="mailto:contato@ghtechn.com.br">contato@ghtechn.com.br</a></small>
+          <small>Ou escreva para <a href="mailto:informatica@ghtechn.com.br">informatica@ghtechn.com.br</a></small>
         </div>
       </div>
     </div>
